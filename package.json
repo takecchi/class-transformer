@@ -12,7 +12,7 @@
   "typings": "./types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typestack/class-transformer.git"
+    "url": "https://github.com/takecchi/class-transformer.git"
   },
   "tags": [
     "serialization",
